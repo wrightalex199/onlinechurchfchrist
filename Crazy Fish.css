@@ -8,7 +8,7 @@
   img.rounded-corners {
     border-radius: 30px;
   }
-  img {
+  img-with-text {
     width:  125px;
     height: 125px;
     object-fit: cover;
