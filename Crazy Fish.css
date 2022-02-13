@@ -9,9 +9,8 @@
     border-radius: 30px;
   }
   img {
-    float: center;
-    width:  350px;
-    height: 350px;
+    width:  125px;
+    height: 125px;
     object-fit: cover;
 }
 p {
