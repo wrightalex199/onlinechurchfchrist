@@ -26,3 +26,6 @@ div {
   width: 33.33%; 
   padding: 50px; 
 }
+img {
+  float: left;
+}
