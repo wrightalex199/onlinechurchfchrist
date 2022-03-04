@@ -3,7 +3,7 @@
     font-size: 25px;
   }
   body {
-    text-align: 
+    text-align: center'
     border: 3px solid green;
   }
   img.rounded-corners {
@@ -17,15 +17,4 @@ div {
     font-size: 25px;
 }
  
-* {
-  box-sizing: border-box;
-}
 
-.box {
-  float: left;
-  width: 33.33%; 
-  padding: 50px; 
-}
-img {
-  float: left;
-}
