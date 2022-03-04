@@ -17,3 +17,12 @@ div {
     font-size: 25px;
 }
  
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 33.33%; 
+  padding: 50px; 
+}
